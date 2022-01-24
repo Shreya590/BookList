@@ -1,3 +1,5 @@
 package com.example.github_booklist.model
 
-data class RandomBook()
+data class RandomBook(
+    val volumeInfo : VolumeInfo
+)

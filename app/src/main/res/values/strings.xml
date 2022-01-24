@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Github_BookList</string>
+    <string name="error_text">Please try again!</string>
+    <string name="book_title">Book Title</string>
+</resources>
